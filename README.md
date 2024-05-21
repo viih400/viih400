@@ -1,4 +1,7 @@
-## Hi there 👋
+## bem vindo ao meu perfil 🌛
+
+sou nova aqui 
+2A 
 
 <!--
 **viih400/viih400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
